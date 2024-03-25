@@ -36,7 +36,7 @@ Este site é uma wiki dedicada a mods para o Minecraft. Aqui você encontrará i
 
 ## Demonstração
 
-**[Imagem da página inicial da wiki]**
+![image](https://github.com/Renan0eng/trabalho_jaime/assets/79994201/2287bb8f-55e5-4274-85b5-a2cc2b7176f2)
 
 ## Pré-requisitos
 
